@@ -1,0 +1,411 @@
+,school,accept_rate,pct25,pct75
+0,Stanford University,4.3,1440,1570
+1,Harvard College,4.7,1460,1580
+2,Princeton University,5.5,1440,1570
+3,Columbia University,5.5,1450,1560
+4,Yale University,6.1,1460,1570
+5,California Institute of Technology,6.4,1530,1560
+6,Massachusetts Institute of Technology,6.7,1500,1570
+7,Brown University,7.1,1440,1570
+8,University of Chicago,7.3,1490,1570
+9,Pomona College,7.4,1390,1540
+10,University of Pennsylvania,7.7,1450,1560
+11,Dartmouth College,7.9,1440,1560
+12,Bowdoin College,8.8,1330,1520
+13,Duke University,8.9,1450,1570
+14,Swarthmore College,8.9,1380,1540
+15,Northwestern University,9.1,1440,1550
+16,Vanderbilt University,9.1,1460,1560
+17,Claremont McKenna College,10.3,1360,1510
+18,Johns Hopkins University,10.6,1470,1560
+19,Cornell University,10.9,1400,1560
+20,Rice University,11.1,1450,1560
+21,Amherst College,11.3,1410,1550
+22,Barnard College,11.8,1340,1520
+23,Bates College,12.1,1270,1480
+24,University of California—​Los Angeles,12.3,1290,1510
+25,Tulane University,12.9,1360,1520
+26,University of Southern California,13.0,1350,1530
+27,Williams College,13.0,1410,1550
+28,Colby College,13.0,1350,1510
+29,Pitzer College,13.3,1340,1490
+30,Colorado College,13.5,1300,1480
+31,Harvey Mudd College,13.7,1490,1570
+32,Georgetown University,14.5,1370,1530
+33,University of California—​Berkeley,14.8,1300,1530
+34,Tufts University,15.0,1390,1540
+35,Washington University in St. Louis,15.0,1470,1570
+36,Middlebury College,15.4,1360,1530
+37,Carnegie Mellon University,15.4,1460,1560
+38,University of Notre Dame,15.8,1400,1550
+39,The Cooper Union,16.0,1283,1510
+40,New York University,16.2,1370,1510
+41,Haverford College,16.3,1380,1540
+42,Wesleyan University,16.5,1320,1510
+43,Hamilton College,16.5,1370,1520
+44,Northeastern University,18.1,1390,1540
+45,Davidson College,18.1,1310,1485
+46,Emory University,18.5,1350,1520
+47,Carleton College,19.0,1360,1540
+48,Georgia Institute of Technology,20.6,1300,1510
+49,Washington and Lee University,21.2,1348,1490
+50,Wellesley College,21.6,1360,1530
+51,Boston University,22.1,1330,1500
+52,Colgate University,22.6,1330,1500
+53,University of North Carolina—​Chapel Hill,22.6,1300,1490
+54,University of Michigan—​Ann Arbor,22.9,1340,1530
+55,Vassar College,23.7,1370,1530
+56,Rhode Island School of Design,23.9,1180,1440
+57,University of Virginia,23.9,1340,1500
+58,Grinnell College,24.4,1370,1530
+59,Babson College,24.0,1270,1450
+60,University of California—​Irvine,26.5,1180,1440
+61,University of Miami,27.1,1280,1420
+62,Boston College,27.2,1370,1490
+63,Villanova University,28.2,1320,1470
+64,University of Richmond,28.3,1290,1460
+65,California State Polytechnic University—​San Luis Obispo,28.4,1250,1420
+66,Trinity University,28.8,1290,1450
+67,Case Western Reserve University,29.3,1350,1520
+68,University of Rochester,29.5,1300,1500
+69,University of California—​Santa Barbara,29.6,1260,1460
+70,Wake Forest University,29.6,1320,1490
+71,Skidmore College,30.0,1220,1400
+72,University of California—​San Diego,30.2,1250,1470
+73,Franklin and Marshall College,30.4,1250,1460
+74,Brandeis University,31.1,1280,1500
+75,Lafayette College,31.5,1250,1440
+76,American University,31.5,1220,1380
+77,University of Texas—​Austin,31.8,1240,1470
+78,Scripps College,32.0,1333,1490
+79,Lehigh University,32.1,1280,1450
+80,Macalester College,32.3,1320,1510
+81,Smith College,32.5,1340,1520
+82,Bryn Mawr College,33.1,1290,1510
+83,Trinity College (Hartford),33.5,1300,1460
+84,Denison University,33.9,1210,1380
+85,San Diego State University,34.0,1110,1320
+86,Kenyon College,34.1,1270,1460
+87,College of the Holy Cross,34.2,1260,1430
+88,Bucknell University,34.2,1255,1430
+89,Emerson College,35.6,1200,1390
+90,Pepperdine University,35.7,1220,1420
+91,Hampton University,36.0,1040,1310
+92,Oberlin College,36.4,1280,1480
+93,CUNY--Hunter,36.4,1090,1260
+94,Occidental College,36.7,1300,1480
+95,Connecticut College,37.4,1310,1450
+96,College of William and Mary,37.7,1320,1510
+97,Mount Holyoke College,38.2,1270,1490
+98,Berea College,38.2,1030,1213
+99,Pratt Institute,38.5,1100,1320
+100,Soka University of America,38.8,1180,1410
+101,California State University--Los Angeles,39.0,890,1080
+102,California State University--Long Beach,39.3,1040,1250
+103,Reed College,39.5,1325,1520
+104,Binghamton University—​SUNY,39.8,1310,1440
+105,Dickinson College,40.1,1240,1410
+106,University of Tulsa,40.8,1180,1410
+107,George Washington University,40.9,1280,1470
+108,University of California—​Davis,41.2,1150,1410
+109,Stevens Institute of Technology,41.4,1330,1480
+110,St. Lawrence University,42.4,1160,1350
+111,Union College (Schenectady NY),42.9,1220,1420
+112,Rensselaer Polytechnic Institute,43.0,1330,1500
+113,Bentley University,43.2,1240,1410
+114,CUNY--Baruch College,43.4,1130,1330
+115,Spelman College,43.4,1080,1230
+116,Loyola Marymount University,43.8,1230,1410
+117,University of Maryland—​College Park,44.1,1280,1480
+118,Stony Brook University—​SUNY,44.1,1230,1440
+119,Rhodes College,44.7,1220,1430
+120,North Carolina State University—​Raleigh,44.9,1250,1390
+121,Baylor University,45.3,1200,1380
+122,University of Dallas,45.3,1150,1360
+123,Gettysburg College,45.4,1270,1420
+124,Fordham University,46.0,1250,1430
+125,Texas Christian University,47.1,1150,1350
+126,Southern Methodist University,47.3,1300,1480
+127,Providence College,47.5,1210,1350
+128,St. Olaf College,47.5,1190,1430
+129,University of New Mexico,48.6,1040,1270
+130,University of Georgia,48.6,1240,1410
+131,University of San Diego,48.7,1200,1350
+132,University of Connecticut,48.8,1210,1420
+133,Santa Clara University,48.8,1280,1440
+134,Southwestern University,49.0,1140,1320
+135,Pennsylvania State University—​University Park,49.1,1160,1370
+136,Marist College,49.2,1210,1360
+137,The College of New Jersey,49.3,1160,1360
+138,Worcester Polytechnic Institute,49.4,1310,1470
+139,Syracuse University,49.9,1180,1370
+140,University of La Verne,50.9,1020,1205
+141,Clemson University,51.3,1230,1400
+142,Austin College,51.3,1110,1290
+143,University of California—​Santa Cruz,51.5,1200,1360
+144,University of Washington--Seattle,51.8,1240,1440
+145,California State University--Fullerton,52.7,1030,1200
+146,University of Wisconsin—​Madison,53.0,1330,1450
+147,Colorado School of Mines,53.1,1260,1460
+148,Chapman University,53.6,1190,1370
+149,Ohio State University—​Columbus,53.7,1250,1460
+150,Texas Lutheran University,54.3,990,1160
+151,University at Albany—​SUNY,54.3,1090,1250
+152,Georgia Southern,54.5,1050,1200
+153,College of Wooster,54.7,1150,1380
+154,San Jose State University,54.7,1040,1260
+155,California State Polytechnic University--Pomona,55.5,1030,1250
+156,Whitman College,55.8,1240,1450
+157,Sarah Lawrence College,55.8,1240,1420
+158,New School,56.6,1150,1360
+159,University of Pittsburgh,56.7,1260,1440
+160,University of California Riverside,56.7,1130,1340
+161,University of Minnesota—​Twin Cities,56.7,1260,1480
+162,Hobart and William Smith Colleges,56.9,1203,1360
+163,Abilene Christian University,57.0,1040,1230
+164,Bennington College,57.0,1230,1390
+165,Birmingham-​Southern College,57.0,1040,1250
+166,Fairfield University,57.1,1210,1350
+167,Georgia State,57.4,990,1190
+168,Texas A&M University—​College Station,57.5,1160,1390
+169,Saint Louis University,57.5,1180,1370
+170,St. John's College Annapolis,57.6,1210,1450
+171,Lake Forest College,57.9,1110,1310
+172,Kennesaw State University,57.9,1080,1270
+173,California State University--Fresno,57.9,950,1130
+174,Rollins College,58.3,1160,1340
+175,University of Hawaii at Manoa,58.4,1070,1270
+176,University of Denver,58.7,1170,1350
+177,Hampden-​Sydney College,59.0,1050,1250
+178,University of Illinois—​Urbana-​Champaign,59.0,1220,1480
+179,Millsaps College,59.3,1080,1260
+180,California State University--Northridge,59.3,910,1130
+181,Clark University,59.4,1200,1390
+182,Lipscomb University,59.5,1060,1320
+183,Virginia Military Institute,59.5,1090,1270
+184,Purdue University—​West Lafayette,59.8,1190,1440
+185,Temple University,60.0,1120,1320
+186,Rutgers The State University of New Jersey—​New Brunswick,60.1,1190,1410
+187,Illinois Institute of Technology,60.2,1190,1400
+188,Yeshiva University,60.3,1140,1400
+189,Illinois Wesleyan University,60.8,1120,1320
+190,Furman University,61.1,1230,1410
+191,University at Buffalo—​SUNY,61.1,1160,1340
+192,Concordia College—​Moorhead,61.2,1080,1368
+193,SUNY College of Environmental Science and Forestry,61.4,1120,1310
+194,University of Portland,61.5,1160,1330
+195,Cornell College,61.8,1100,1345
+196,Muhlenberg College,61.8,1170,1360
+197,Gonzaga University,61.9,1210,1358
+198,Beloit College,62.0,1080,1380
+199,Lawrence University,62.1,1200,1430
+200,University of Utah,62.1,1142.5,1380
+201,Allegheny College,62.2,1170,1360
+202,University of Delaware,62.4,1170,1350
+203,Westmont College,62.4,1110,1370
+204,Luther College,62.6,1050,1310
+205,Rutgers The State University of New Jersey—​Newark,62.7,1020,1190
+206,Earlham College,63.4,1100,1370
+207,Augustana College,63.6,1070,1280
+208,Wofford College,63.6,1180,1350
+209,New Jersey Institute of Technology,63.7,1190,1380
+210,University of Massachusetts—​Amherst,63.8,1190,1390
+211,Wabash College,64.2,1120,1320
+212,DePauw University,64.4,1130,1360
+213,Drury University,64.4,1045,1225
+214,St. John Fisher College,64.5,1070,1260
+215,University of San Francisco,64.6,1130,1330
+216,Bard College,64.6,1248,1420
+217,Goshen College,64.7,1010,1210
+218,Agnes Scott College,64.8,1130,1340
+219,Virginia Polytechnic Institute and State University,64.8,1180,1390
+220,University of Houston,65.0,1140,1310
+221,University of North Carolina—​Charlotte,65.0,1120,1290
+222,Truman State University,65.3,1080,1358
+223,University of North Carolina—​Wilmington,65.5,1170,1320
+224,SUNY—​Geneseo,65.5,1120,1310
+225,Embry-​Riddle Aeronautical University,65.5,1110,1320
+226,University of the Pacific,65.6,1130,1360
+227,Rochester Institute of Technology,66.0,1200,1400
+228,Berry College,66.1,1110,1310
+229,Mississippi State University,66.3,1070,1280
+230,Sewanee—​University of the South,66.7,1150,1340
+231,Hanover College,66.9,1078,1300
+232,Coe College,66.9,1078,1300
+233,Randolph-​Macon College,67.1,1020,1240
+234,Loyola University Chicago,67.2,1140,1320
+235,University of Vermont,67.3,1180,1360
+236,San Francisco State University,67.3,940,1150
+237,Brigham Young University—​Provo,67.5,1210,1420
+238,Drake University,67.6,1100,1370
+239,Stonehill College,67.7,1120,1290
+240,Elmhurst College,67.8,990,1210
+241,Taylor University,68.1,1080,1310
+242,DePaul University,68.2,1070,1290
+243,Knox College,68.3,1090,1350
+244,Hofstra University,68.5,1160,1340
+245,Ithaca College,68.5,1160,1338
+246,California State University--San Bernardino,68.6,910,1090
+247,University of South Carolina,68.6,1180,1370
+248,Albion College,68.8,990,1200
+249,Presbyterian College (SC),68.8,1010,1210
+250,Texas Tech University,68.9,1070,1260
+251,Ohio Wesleyan University,69.0,1060,1295
+252,Ripon College,69.0,1000,1210
+253,Drew University,69.2,1110,1310
+255,Central Michigan,69.5,990,1200
+256,Oklahoma State University,70.0,1040,1265
+257,Bradley University,70.2,1070,1270
+258,Seton Hall University,70.4,1150,1310
+259,Biola University,70.5,1080,1310
+260,Ursinus College,70.9,1140,1320
+261,Montclair State,70.9,990,1170
+262,Clarkson University,71.1,1160,1350
+263,Michigan State University,71.1,1100,1320
+264,Hollins University,71.2,1070,1300
+265,Creighton University,71.4,1150,1350
+266,California Lutheran University,71.5,1070,1250
+267,University of Mary Washington,71.8,1050,1269
+268,Christopher Newport University,71.9,1110,1280
+269,University of California—Merced,72.0,980,1180
+270,Mercer University,72.0,1180,1340
+271,University of Dayton,72.0,1120,1320
+272,Lewis & Clark College,72.2,1220,1400
+273,Hendrix College,72.2,1153,1390
+274,University of Rhode Island,72.3,1012,1345
+275,California State University--Chico,72.3,990,1180
+276,Stetson University,72.4,1110,1300
+277,Quinnipiac University,72.5,1090,1260
+278,Duquesne University,72.5,1130,1300
+279,University of Illinois—​Chicago,72.7,1030,1260
+280,University of Akron,73.0,990,1230
+281,St. John's University (NY),73.1,1070,1270
+282,University of Cincinnati,73.1,1160,1370
+283,Simmons University,73.1,1110,1290
+284,Wayne State University,73.1,1010,1230
+285,Butler University,73.2,1150,1330
+286,Point Loma Nazarene University,73.7,1140,1310
+287,University of North Texas,73.7,1060,1250
+288,University of North Georgia,73.7,1108,1273
+289,Xavier University,73.8,1070,1250
+290,Wheaton College (MA),73.9,1150,1340
+291,Eastern Michigan,74.1,970,1190
+292,University of Washington--Bothell,74.1,1038,1250
+293,Adelphi University,74.2,1080,1270
+294,Baldwin Wallace University,74.2,1030,1250
+295,Michigan Technological University,74.3,1170,1370
+296,Drexel University,74.7,1190,1390
+297,University of Redlands,75.0,1100,1250
+298,Loyola University New Orleans,75.0,1050,1260
+299,California State University--Monterey Bay,75.3,960,1170
+300,Whittier College,75.9,1030,1213
+301,Kalamazoo College,76.0,1170,1370
+302,Towson University,76.3,1060,1220
+303,Centre College,76.4,1130,1380
+304,University of Texas San Antonio,76.6,1030,1220
+306,James Madison University,76.8,1120,1290
+307,Appalachian State University,76.8,1100,1270
+308,Indiana University—​Bloomington,76.9,1150,1360
+309,High Point University,76.9,1090,1250
+310,Virginia Commonwealth University,77.1,1070,1260
+311,University of Arkansas—​Fayetteville,77.1,1120,1300
+312,John Brown University,77.1,1060,1365
+313,University of Idaho,77.8,1010,1240
+314,University of Missouri,77.8,1090,1290
+315,Willamette University,77.9,1140,1340
+316,University of Nebraska—​Lincoln,78.2,1120,1360
+317,Carroll College,78.3,1070,1270
+318,College of Charleston,78.3,1080,1260
+319,University of Colorado—​Boulder,78.4,1140,1350
+320,Elon University,78.4,1160,1320
+321,Seattle University,78.5,1160,1330
+322,University of Texas—​Dallas,78.6,1240,1460
+323,East Carolina,78.7,1030,1190
+324,University of Tennessee,78.8,1150,1330
+325,University of Texas Arlington,79.5,1060,1260
+326,Pacific Lutheran University,79.8,1070,1270
+327,Western Michigan,79.9,1000,1210
+328,Loyola University Maryland,80.2,1143,1320
+329,Miami University—​Oxford,80.4,1210,1410
+330,Goucher College,80.4,1040,1290
+331,University of Oklahoma,80.4,1130,1310
+332,Auburn University,80.7,1150,1320
+333,University of Nevada—​Las Vegas,80.7,1030,1250
+334,Boise State,80.8,960,1180
+335,St. Mary's College of California,81.0,1070,1240
+336,Siena College,81.1,1070,1280
+337,University of North Dakota,81.1,1010,1250
+338,Texas State University,81.1,1010,1180
+339,Colorado State University,81.4,1070,1290
+340,University of Memphis,81.4,1010,1230
+341,West Virginia University,81.6,1050,1240
+342,University of Oregon,81.6,1100,1310
+343,University of St. Thomas (MN),81.9,1130,1380
+344,St. Mary's College (IN),81.9,1050,1260
+345,Illinois State,81.9,1020,1220
+346,Ohio University,82.1,1050,1260
+347,California State University--Sacramento,82.3,940,1140
+348,University of North Carolina—​Greensboro,82.4,1000,1160
+349,University of Iowa,82.6,1130,1340
+350,St. Michael's College,82.6,1140,1320
+351,University of Alaska Anchorage,83.0,1020,1220
+352,Marquette University,83.0,1120,1320
+353,College of St. Benedict,83.4,990,1210
+354,Oregon State University,83.6,1080,1320
+355,The Catholic University of America,83.7,1140,1320
+356,University of Puget Sound,83.8,1150,1370
+357,University of New Hampshire,84.0,1070,1270
+358,Missouri University of Science & Technology,84.2,1180,1380
+359,St. Mary's College of Maryland,84.3,1060,1290
+360,University of Arizona,84.6,1120,1350
+361,Susquehanna University,84.8,1100,1290
+362,Arizona State University—​Tempe,84.8,1130,1360
+363,Wheaton College (IL),84.8,1220,1440
+364,Northern Arizona,85.0,1030,1230
+365,Washington and Jefferson College,85.2,1090,1280
+366,Kent State,85.5,1040,1230
+367,Mills College,85.5,1008,1240
+368,Hope College,85.7,1130,1330
+369,Valparaiso University,85.8,1070,1290
+370,George Mason University,86.7,1110,1320
+371,Old Dominion,87.0,990,1200
+372,Missouri State,87.9,1040,1240
+373,University of Wisconsin Milwaukee,88.5,1000,1398
+374,Transylvania University,88.7,1100,1310
+376,University of Maine,90.2,1050,1260
+377,Humboldt State University,90.9,980,1190
+378,Utah State,91.0,1050,1310
+379,Iowa State University,92.1,1100,1340
+380,Washington College,92.4,1090,1300
+381,University of Montana,92.6,1060,1270
+382,Samford University,92.9,1070,1250
+384,University of Kentucky,94.5,1080,1300
+385,University of Toledo,95.1,1000,1240
+387,Portland State,96.1,1010,1230
+388,Queens University of Charlotte,96.2,1040,1240
+389,Western Kentucky,97.3,990,1220
+390,United States Naval Academy,8.3,1240,1520
+391,United States Military Academy,10.3,1160,1380
+392,United States Air Force Academy,11.1,1230,1440
+393,United States Coast Guard Academy,12.8,1245,1420
+394,United States Merchant Maritime Academy,24.8,1200,1340
+395,Howard University,31.6,1140,1285
+396,Florida State University,36.0,1200,1340
+397,Hillsdale College,36.0,1275,1465
+398,University of Central Florida,38.2,1160,1340
+399,University of Florida,38.8,1280,1440
+400,University of South Florida,47.7,1170,1330
+401,Gallaudet University,57.1,793,1078
+402,Florida International,57.5,1240,1300
+403,Morehouse College,57.9,1010,1210
+404,University of Alabama,59.1,1060,1280
+406,Florida Institute of Technology,65.7,1150,1360
+407,Louisiana State University—​Baton Rouge,74.6,1080,1310
+408,The Citadel,74.7,1050,1230
+409,New College of Florida,76.8,1220,1420
+410,Thomas Aquinas College,77.7,1220,1400
+411,University of Texas Rio Grande Valley,79.8,950,1130
+412,University of South Dakota,86.4,990,1180
+413,University of Mississippi,88.1,1050,1270
+414,University of Wyoming,96.0,1060,1280
+415,University of Texas El Paso,99.9,820,1050
